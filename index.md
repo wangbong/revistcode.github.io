@@ -9,6 +9,7 @@ This automatic page generator is the easiest way to create beautiful pages for a
 
 ### Markdown From Wangbong Lee.
 This Wangbng Lee.
+[blogspot-my notes](http://wangbong.blogspot.com/)
 
 
 ### Markdown (github provides this automatically, - conventions)
