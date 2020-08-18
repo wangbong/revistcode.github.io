@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. 
 
 ### Markdown From Wangbong Lee.
-This Wangbng Lee.
+This Wangbong Lee.
 
 [blogspot-my notes](http://wangbong.blogspot.com/)
 
