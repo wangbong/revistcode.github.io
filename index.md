@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome!
+
+
+### Markdown From Wangbong Lee.
+[blogspot-my notes](http://wangbong.blogspot.com/)
+
+```markdown
+
+Test block
+
+```
+
+## Welcome to GitHub Pages (this is original message from GitHub)
 
 You can use the [editor on GitHub](https://github.com/wangbong/wangbong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,13 +19,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * --
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. 
 
-### Markdown From Wangbong Lee.
-This Wangbong Lee.
 
-[blogspot-my notes](http://wangbong.blogspot.com/)
-
-
-### Markdown (github provides this automatically, - conventions)
+### Markdown (github provides this automatically, - conventions. It might be useful.)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
